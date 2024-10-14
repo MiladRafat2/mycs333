@@ -1,4 +1,4 @@
-/* General Styles */
+
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -7,7 +7,7 @@ body {
     background-color: #6d709e;
 }
 
-/* Header Styles */
+
 header {
     background-color: #ffffff;
     color: #fffcfc;
@@ -49,7 +49,7 @@ h2 {
     color: #070707;
 }
 
-/* Weekly Schedule Styles */
+
 table {
     width: 100%;
     border-collapse: collapse;
@@ -66,7 +66,7 @@ th {
     background-color: #fdfafa;
 }
 
-/* Gallery Styles */
+
 .gallery-grid {
     display: flex;
     flex-wrap: wrap;
@@ -88,7 +88,7 @@ footer {
     margin-top: 2rem;
 }
 
-/* Responsive Design */
+
 @media (max-width: 768px) {
     .gallery-grid img {
         width: calc(100% - 1rem);
